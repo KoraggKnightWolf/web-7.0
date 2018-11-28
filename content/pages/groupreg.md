@@ -61,7 +61,7 @@ primary contact.
 
 #### The secondary contact.
 
-Secondary (or approved) contacts are appointed by the primary contact. A
+Secondary (or alternate) contacts are appointed by the primary contact. A
 secondary contact may be assigned limited access and/or privileges. They need
 no special level of authority; delegate whatever level of authority seems
 appropriate. We will not expect them to make policy decisions, just to find out
@@ -123,7 +123,7 @@ discuss a project, group or topic.
 
 
 ### Free and Open Source Software (FOSS).
-Project coordination, support, discussion or contact channels associated with software projects which are licensed under terms consistent with the [Debian Free Software Guidelines](http://www.debian.org/social_contract#guidelines), Free Software Foundation's (Free Software Definition](http://www.gnu.org/philosophy/free-sw.html) or the Open Source Initiative's [Open Source Definition](http://www.opensource.org/docs/definition.php) (preferably all three) are considered to be on-topic.
+Project coordination, support, discussion or contact channels associated with software projects which are licensed under terms consistent with the [Debian Free Software Guidelines](http://www.debian.org/social_contract#guidelines), Free Software Foundation's [Free Software Definition](http://www.gnu.org/philosophy/free-sw.html) or the Open Source Initiative's [Open Source Definition](http://www.opensource.org/docs/definition.php) (preferably all three) are considered to be on-topic.
 
 
 ### Non-Software-Related Peer-Directed Project.
