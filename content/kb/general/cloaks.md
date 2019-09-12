@@ -39,9 +39,9 @@ take the form `unaffiliated/owneraccountname/bot/botaccountname`.
 Gateway cloaks
 ==============
 
-If you are connected via a gateway which sets a gateway cloak (for instance, our
-webchat, or KiwiIRC, or some bouncer/shell providers) you will receive an
-automatic gateway cloak—for instance `gateway/web/freenode/ip.1.2.3.4`—these
+If you are connected via a gateway which sets a gateway cloak (for instance,
+some web-based chat interfaces or bouncer/shell providers) you will receive an
+automatic gateway cloak—for instance `gateway/web/foo/ip.1.2.3.4` — these
 gateway cloaks override unaffiliated cloaks, but do not override project cloaks.
 
 There are also gateway cloaks which may denote that the host the user is coming
@@ -93,9 +93,9 @@ Requesting a cloak
 ==================
 
 Once you've read and understood the above, if you would like an unaffiliated
-cloak, please drop in to #freenode or speak to a member of the staff team. Note
-that cloaks are a privilege, and staff have the right to deny that privilege to
-users if they deem necessary.
+cloak, please join the #freenode channel or speak to a member of the staff
+team. Note that cloaks are a privilege, and staff have the right to deny that
+privilege to users if they deem necessary.
 
 For project cloaks, a registered GC for the project needs to contact staff to
 request the cloak be added to the desired user.
